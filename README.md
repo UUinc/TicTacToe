@@ -1,5 +1,5 @@
 # TicTacToe
-A simple Tic Tac Toe programmed in C language.
+A simple Tic Tac Toe game programmed in C language.
 
 My first game in C language, i wrote this program in November 2019.
 
